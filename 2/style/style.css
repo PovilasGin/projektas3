@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family: fantasy;
+    font-family: 'Rozha One', serif;
+}
+p{
+    text-align: center;
+    background: grey;
+    color: cornflowerblue;
+    margin: 20px 150px;
+    font-family: fantasy;
+    font-style: bold;
+}
+div{
+    background: lightgray;
+border: solid 1px black;
+    text-align: center;
+    margin: 0px 350px
+}
+.center{
+    text-align: center;
+    display: block;
+}
+span1{
+    color: black
+}
+span2{
+    color: rebeccapurple
+}
+span3{
+    color: violet
+}
